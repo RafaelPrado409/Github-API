@@ -29,13 +29,17 @@ Após a instalação você pode usar os seguintes comandos no seu terminal dentr
 
 ### Yarn
 
-- ``` yarn ``` para instalar as dependencias
-- ``` yarn start ``` para iniciar a aplicacao apos a instalacao das dependencias
+- ``` yarn ``` 
+para instalar as dependencias
+- ``` yarn start ``` 
+para iniciar a aplicacao apos a instalacao das dependencias
 
 ### NPM
 
-- ```npm install``` para instalar as dependencias
-- ```npm run start``` para iniciar a aplicacao apos a instalacao das dependencias
+- ```npm install``` 
+#### para instalar as dependencias
+- ```npm run start``` 
+#### para iniciar a aplicacao apos a instalacao das dependencias
 
 ## Dependências relevantes para o projeto:
 - ***Axios*** para chamadas de API: https://github.com/axios/axios
