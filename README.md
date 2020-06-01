@@ -22,20 +22,31 @@ It is an application made up with ***ReactJS*** that connects with the github ap
 ## Como eu a utilizo?
 
 Precisa ter instalado:
-- [React](https://reactjs.org/)
 - [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
 
 Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
 
 ### Yarn
 
-- ``` yarn ``` para instalar as dependencias
-- ``` yarn start ``` para iniciar a aplicacao apos a instalacao das dependencias
+ ``` 
+yarn 
+``` 
+para instalar as dependencias
 
+ ``` 
+ yarn start 
+ ``` 
+ para iniciar a aplicacao apos a instalacao das dependencias
 ### NPM
 
-- ```npm install``` para instalar as dependencias
-- ```npm run start``` para iniciar a aplicacao apos a instalacao das dependencias
+```
+npm install
+``` 
+para instalar as dependencias
+```
+npm run start
+``` 
+para iniciar a aplicacao apos a instalacao das dependencias
 
 ## Dependências relevantes para o projeto:
 - [Axios](https://github.com/axios/axios) para chamadas de API;
