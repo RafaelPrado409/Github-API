@@ -1,5 +1,10 @@
 # Rocketseat_GoStack_GithubAPI
 
+
+![image](https://i.imgur.com/AS1DbRW.png)
+![image](https://i.imgur.com/jyODcG4.png)
+![image](https://i.imgur.com/NESFlsg.png)
+
 ***English***: It is an application made up with ***ReactJS*** that connects with the github api and shows the repositories and the repositories issues that are received from the user's input
 
 - Use ***yarn*** to downloading the dependencies
@@ -11,6 +16,3 @@
 - Utilize o ***yarn*** para baixar as dependências
 - Utilize ***yarn start*** para rodar a aplicação
 
-![image](https://i.imgur.com/AS1DbRW.png)
-![image](https://i.imgur.com/jyODcG4.png)
-![image](https://i.imgur.com/NESFlsg.png)
