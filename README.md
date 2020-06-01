@@ -37,6 +37,7 @@ para instalar as dependencias
  yarn start 
  ``` 
  para iniciar a aplicacao apos a instalacao das dependencias
+ 
 ### NPM
 
 ```
