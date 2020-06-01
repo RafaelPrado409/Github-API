@@ -22,31 +22,27 @@ It is an application made up with ***ReactJS*** that connects with the github ap
 ## Como eu a utilizo?
 
 Precisa ter instalado:
-- ***React***: https://reactjs.org/;
-- ***Reactotron*** para visualização de logs (Opcional): https://github.com/infinitered/reactotron;
+- [React](https://reactjs.org/)
+- [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
 
 Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
 
 ### Yarn
 
-- ``` yarn ``` 
-para instalar as dependencias
-- ``` yarn start ``` 
-para iniciar a aplicacao apos a instalacao das dependencias
+- ``` yarn ``` para instalar as dependencias
+- ``` yarn start ``` para iniciar a aplicacao apos a instalacao das dependencias
 
 ### NPM
 
-- ```npm install``` 
-#### para instalar as dependencias
-- ```npm run start``` 
-#### para iniciar a aplicacao apos a instalacao das dependencias
+- ```npm install``` para instalar as dependencias
+- ```npm run start``` para iniciar a aplicacao apos a instalacao das dependencias
 
 ## Dependências relevantes para o projeto:
-- ***Axios*** para chamadas de API: https://github.com/axios/axios
-- ***Eslint*** para padronizações e correções de codigo: https://eslint.org/;
-- ***React*** para o desenvolvimento e uso de componentes: https://reactjs.org/;
-- ***React Icons*** para utilizacao de icones svg: https://github.com/react-icons/react-icons
-- ***Styled Components*** para desenvolver o CSS usando JavaScript: https://styled-components.com/;
+- [Axios](https://github.com/axios/axios) para chamadas de API;
+- [Eslint](https://eslint.org/) para padronizações e correções de codigo;
+- [React](https://reactjs.org/) para o desenvolvimento e uso de componentes;
+- [React Icons](https://github.com/react-icons/react-icons) para utilizacao de icones svg;
+- [Styled Components](https://styled-components.com/) para desenvolver o CSS usando JavaScript;
 
 ***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
