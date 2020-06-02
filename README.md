@@ -12,7 +12,7 @@ It is an application made up with ***ReactJS*** that connects with the github ap
 ## How do I use it?
 
 Must have installed:
-- [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Optional);
+- [Reactotron](https://github.com/infinitered/reactotron) to view logs (Optional);
 
 After installation, you can use the following commands in your terminal inside the project folder or VSCode:
 
