@@ -46,13 +46,13 @@ npm run start
 - [React Icons](https://github.com/react-icons/react-icons) to use svg icons;
 - [Styled Components](https://styled-components.com/) for developing CSS using JavaScript;
 
-***Some dependences were not mentioned, to make part of the relevant***
+***Some dependences were not mentioned, to make part of the relevants***
 
 ***To feedbacks and contact: santiagorafael409@gmail.com***
 
 # Português
 
-## O que e essa aplicacao?
+## O que e essa aplicação?
 
 É um aplicativo feito no bootcamp GoStack da Rocketseat em ***ReactJS*** que é conectado à API do github e mostra os repositórios e as issues do repositório recebido pelo input do usuário.
 
@@ -68,23 +68,23 @@ Após a instalação você pode usar os seguintes comandos no seu terminal dentr
  ``` 
 yarn 
 ``` 
-para instalar as dependencias
+para instalar as dependências
 
  ``` 
  yarn start 
  ``` 
- para iniciar a aplicacao apos a instalacao das dependencias
+ para iniciar a aplicação apos a instalação das dependências
  
 ### NPM
 
 ```
 npm install
 ``` 
-para instalar as dependencias
+para instalar as dependências
 ```
 npm run start
 ``` 
-para iniciar a aplicacao apos a instalacao das dependencias
+para iniciar a aplicação apos a instalação das dependências
 
 ## As principais dependências para o projeto:
 - [Axios](https://github.com/axios/axios) para chamadas de API;
