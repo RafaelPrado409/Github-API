@@ -40,9 +40,9 @@ npm run start
  to start the application after install the dependences
 
 ## Relevant dependencies for the project:
-- [Axios](https://github.com/axios/axios)for API calls;
+- [Axios](https://github.com/axios/axios) for API calls;
 - [Eslint](https://eslint.org/) for standardization and code corrections;
-- [React](https://reactjs.org/)to the development and use of components;
+- [React](https://reactjs.org/) to the development and use of components;
 - [React Icons](https://github.com/react-icons/react-icons) to use svg icons;
 - [Styled Components](https://styled-components.com/) for developing CSS using JavaScript;
 
