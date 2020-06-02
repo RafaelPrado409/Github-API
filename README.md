@@ -7,7 +7,7 @@
 
 # English
 
-It is an application made up with ***ReactJS*** that connects with the github api and shows the repositories and the repositories issues that are received from the user's input
+It is an application made up in GoStack bootcamp of Rocketseat with ***ReactJS*** that connects with the github api and shows the repositories and the repositories issues that are received from the user's input
 
 ## How do I use it?
 
