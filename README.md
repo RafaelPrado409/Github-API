@@ -1,5 +1,5 @@
-# Rocketseat_GoStack_GithubAPI
-
+![](https://img.shields.io/badge/react-16.13.1-blue)
+![](https://img.shields.io/badge/-Rocketseat-blue)
 
 ![image](https://i.imgur.com/AS1DbRW.png)
 ![image](https://i.imgur.com/jyODcG4.png)
